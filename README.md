@@ -1,2 +1,2 @@
-# MODE-LX-Dementia-Project
-Our team project for the MODE-LX hackathon
+# MODEL-X-Dementia-Project
+Our team project for the MODEL-X hackathon
